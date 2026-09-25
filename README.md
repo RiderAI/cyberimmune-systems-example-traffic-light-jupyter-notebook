@@ -8,7 +8,7 @@ see cyberimmunity-traffic-lights-example.ipynb
 
 Use the link to execute the notebook directly from the github repository
 
-https://colab.research.google.com/github/cyberimmunity-edu/cyberimmune-systems-example-traffic-light-jupyter-notebook/blob/master/cyberimmunity-traffic-lights-example.ipynb
+https://colab.research.google.com/github/RiderAI/cyberimmune-systems-example-traffic-light-jupyter-notebook/blob/master/cyberimmunity-traffic-lights-example.ipynb
 
 Clone the repository, modify the code and run either locally or use the DataLore service (see below)
 
